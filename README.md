@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am Dasun Shakhyajith. I am test automation engineer with a passion for DevOps. I enjoy learning, creating, and exploring new ideas that push the boundaries of what's possible.
+
 <!--
 **dasunshakhya1/dasunshakhya1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
